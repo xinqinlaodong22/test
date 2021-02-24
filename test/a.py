@@ -2,6 +2,4 @@ aaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccccccccc
 b=2
-qwerewtert
-qweqrwet
-qweqweqwe:
+a=10
